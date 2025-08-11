@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Scanify"
 include(":app")
+include(":opencv")
